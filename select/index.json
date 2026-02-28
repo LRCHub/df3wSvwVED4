@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私が選んだもの - What I Chose",
+  "base_artist": "Yuika",
+  "createdAt": "2026-02-28T04:26:58.692644Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私が選んだもの",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_私が選んだもの_『ユイカ』.txt"
+    }
+  ]
+}
